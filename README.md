@@ -15,7 +15,7 @@
       
       2) Complex View
 
--> I have also show Few command to List of Views and How to Drop the View, and How to view the created View
+-> I have also show Few command to List of Views and How to Drop the View, and How to display records using the created View
 
       1) Command to List the Created View
             Syntax :-  SELECT * FROM INFORMATION_SCHEMA.VIEWS
